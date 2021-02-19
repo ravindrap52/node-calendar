@@ -1,0 +1,24 @@
+{
+  "name": "node-calendar",
+  "version": "1.0.0",
+  "description": "Sample Node Application with google calendar API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindrap52/node-calendar.git"
+  },
+  "keywords": [
+    "node",
+    "google",
+    "calendar"
+  ],
+  "author": "ravindra pallikonda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravindrap52/node-calendar/issues"
+  },
+  "homepage": "https://github.com/ravindrap52/node-calendar#readme"
+}
